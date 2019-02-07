@@ -1,0 +1,27 @@
+
+body{
+	background-color: #99e224;
+	font-family: "Trebuchet";
+}
+
+
+.class-color{
+	color: red;
+}
+
+.mood-color{
+	color: purple;
+}
+
+.list-font{
+	font-family: "Georgia";
+}
+
+.font-ul{
+	font-family: "Verdana";
+	font-weight: bold;
+	font-size: 15px;
+	font-variant: small-caps;
+}
+
+
